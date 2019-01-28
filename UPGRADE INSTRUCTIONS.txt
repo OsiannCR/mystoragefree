@@ -1,0 +1,11 @@
+
+Update:
+BUGFIX: File Sharing not working properly 
+BUGFIX: PayPal Livemode not working
+
+Modified files
+- application/views/user/dashboard.php
+- application/libraries/payment/paypal/init.php
+
+UPDATE INSTRUCTIONS:
+Upload the contents of the update folder.
